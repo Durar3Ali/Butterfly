@@ -1,3 +1,3 @@
-# My First Github repo
+# Single web page
 I'm just playing around at the point.
-it is a simple **1-page website** 
+It's a simple **web page** 
