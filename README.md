@@ -1,3 +1,2 @@
-# Single web page
-I'm just playing around at the point.
-It's a simple **web page** 
+# Simple, single web page
+⋆.ೃ𐦍*:･⋆𐦍.ೃ࿔*:･ 
