@@ -1,2 +1,2 @@
-# Simple, single web page
+# Simple 1-Page Website
 ⋆.ೃ𐦍*:･⋆𐦍.ೃ࿔*:･ 
